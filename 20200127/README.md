@@ -18,3 +18,7 @@
 * kävele koulun asti.
 
 # Tehtävä 3
+Suora keskustelu. välillisen viestinnän sijaan: Tehokkain kommunikointikeino on kasvokkain keskustelu.
+Tekninen loistokkuus. jatkuva tekniseen laatuun ja hyvään suunnitteluun panostaminen parantaa ketteryyttä.
+Yksinkertaisuus. tekemättä jätetyn työn määrän maksimointi – on olennaista.
+Itseohjautuvuus. parhaat arkkitehtuurit, vaatimukset ja suunnitelmat kehittyvät tiimeistä, jotka organisoivat itse toimintansa.
