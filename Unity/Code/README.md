@@ -2,12 +2,12 @@
 
 ### Unit_1
 * Player Control: https://connect.unity.com/mg/other/unit_1-t0
-* Plane Programming:
+* (Challenge) Plane Programming:
 
 ### Unit_2
 * Basic Gameplay:
-* Play Fetch:
+* (Challenge) Play Fetch:
 
 ### Unit_3
 * Sound and Effects:
-* Balloons, Bombs, & Booleans:
+* (Challenge) Balloons, Bombs, & Booleans:
