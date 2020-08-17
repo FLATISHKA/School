@@ -55,3 +55,28 @@ VALUES ("12345", "SQL-kielen perusteet", "Hei maailma")
 ### Tehtävä 21
 >CREATE TABLE Kurssi (kurssitunnus, nimi, kuvas)
 ### Tehtävä 22
+>Opiskelija numero kasvaa
+### Tehtävä 23
+>CREATE TABLE Kurssi (kurssitunnus integer, nimi varchar(50), kuvaus varchar(200))
+### Tehtävä 24
+>PRAGMA foreign_keys = ON;
+
+>CREATE TABLE Tehtävä (
+    tunnus integer PRIMARY KEY,
+    nimi varchar(50),
+    kuvaus varchar(200)
+);
+
+>CREATE TABLE Kurssitehtävä (
+    tunnus integer PRIMARY KEY,
+    tehtävä integer NOT NULL,
+    FOREIGN KEY(tehtävä) REFERENCES Tehtävä(tunnus)
+);
+
+### Tehtävä 25
+>INSERT INTO Tehtävä (nimi, kuvaus)
+VALUES ("FY 2", "Fysiikka");
+VALUES ("On Track","Englannin kieli");
+### Tehtävä 26
+>ALERT TABLElla pistyy muokata tauluja, lisää tai poistaa tietoa
+
